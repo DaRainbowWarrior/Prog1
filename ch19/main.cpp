@@ -69,13 +69,14 @@ int main()
 	s3.set(s3n);
 	read_val(s4n);
 	s4.set(s4n);
-	
+
 	cout << endl;
 
 	cout << s1.get() << endl;
 	cout << s2.get() << endl;
 	cout << s3.get() << endl;
 	cout << s4.get() << endl;
+
 
 
 	return 0;

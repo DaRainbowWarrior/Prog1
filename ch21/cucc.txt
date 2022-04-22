@@ -1,0 +1,10 @@
+alma 1 3.3
+korte 12 5.5
+barack 32 6.4
+krumpli 46 6.6
+vadalma 2 112.3
+aranyora 444 12345.0
+becsulet 42 1.0
+hotvilsz 5 22.2
+erospista 9 165.3
+kismacska 66 909.9
